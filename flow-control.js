@@ -4,9 +4,9 @@ let check3="You are a kid"
 
 function basicTeenager(age) {
 if(13<age<19){
-  return "You are a teenager!"
+  return check1
 }else {
-  return "You are not a teenager"
+  return check2
 }
 }
 
