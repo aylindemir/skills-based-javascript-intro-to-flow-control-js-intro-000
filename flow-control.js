@@ -26,14 +26,11 @@ function ternaryTeenager(age) {
 
 function switchAge(age) {
   swith(age){
-    case age<13:
-    return  "You have an age"
-    break;
-  case age>19
-    return  "You have an age"
+    case 15:
+    return  "you are a teenager"
     break;
     default:
-    return "you are a teenager"
+    return "you have an age"
   }
 
 }
